@@ -1,0 +1,7 @@
+{
+  "name": "slow-flow",
+  "dependencies": {
+    "flow-bin": "^0.28.0",
+    "immutable": "^3.8.1"
+  }
+}
